@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manas</h1>
-<h3 align="center">Malatya Turgut Özal University Computer Engineering 4th year student</h3>
+<h3 align="center">Computer Engineer</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
